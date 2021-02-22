@@ -6,3 +6,4 @@ At the moment, this repo mainly exists for two reasons:
 
 Link to off cadence sessions WG meeting to discuss issue 435 - https://lanl-us.webex.com/lanl-us/j.php?MTID=ma9de01cb0ef5e83757d30add6413ab31
 password 7Vf8pv43AnW
+time: 7/23/21 at 14:30 UTC duration 30 minutes
